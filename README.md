@@ -41,3 +41,4 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 **[fernandolyon.fg@gmail.com]**
 **[Acesse meu site por aqui!]**
 **[https://imersao-alura-topaz.vercel.app/]**
+<a href="https://www.google.com" target="_blank">Acesse o Google</a>
